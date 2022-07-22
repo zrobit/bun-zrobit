@@ -102,3 +102,6 @@ src/runtime.version
 *.sqlite
 *.database
 *.db
+
+#zrobit add this
+vscode-zig.vsix
