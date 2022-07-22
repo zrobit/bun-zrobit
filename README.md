@@ -271,7 +271,7 @@ bun add bun-types
     "lib": ["ESNext"],
     "module": "esnext",
     "target": "esnext",
-    // "bun-types" is the important part
+    "bun-types" is the important part
     "types": ["bun-types"]
   }
 }
